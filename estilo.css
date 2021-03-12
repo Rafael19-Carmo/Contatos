@@ -1,0 +1,74 @@
+body{
+    background-color: #2fa2c9;
+    
+    
+}
+#imagem{
+    margin-top: 3%;
+    position: relative;
+    width: 8%;
+    height: 8%;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#desenvolvedor{
+    font: normal 10pt arial;
+    margin-top: 10%;
+}
+
+p{
+    text-align: center;
+    margin-top: 1%;
+    position: relative;   
+    font: normal 18pt arial;
+    color: white;
+}
+a{
+    text-decoration:none;
+}
+div{
+    position: relative;
+    margin-top: 1%;
+    width: 50%;
+    height: 15%;
+    text-align: center;
+    background-color: rgb(241, 236, 236);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font: normal 19pt arial;
+    color: black;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(29, 28, 28, 0.479);
+    border-style: none;
+    padding: 8px;
+
+}
+
+
+#icon1{
+    margin-top: 11%;
+    width: 3%;
+    height: 3%;
+    margin-left: 85%;
+}
+
+#icon2{
+    margin-top: 10%;
+    width: 3%;
+    height: 3%;
+}
+
+#icon3{
+    margin-top: 10%;
+    width: 3%;
+    height: 3%;
+}
+
+#icon4{
+    margin-top: 10%;
+    width: 3%;
+    height: 3%;
+}
