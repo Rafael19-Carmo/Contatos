@@ -6,8 +6,8 @@ body{
 #imagem{
     margin-top: 3%;
     position: relative;
-    width: 30%;
-    height: 30%;
+    width: 10%;
+    height: 10%;
     border-radius: 100%;
     display: block;
     margin-left: auto;
@@ -57,9 +57,9 @@ div:hover{
     margin-left: auto;
     margin-right: auto;
     
-    margin-top: 48%;
-    width:  7%;
-    height: 7%;
+    margin-top: 30%;
+    width: 5.2%;
+    height: 5.2%;
     margin-left: 93%;
 
 }
@@ -69,10 +69,10 @@ div:hover{
     margin-left: auto;
     margin-right: auto;
     
-    margin-left: 85%;
-    margin-top: -6.5%;
-    width: 7%;
-    height: 7%;
+    margin-left: 87%;
+    margin-top: -5%;
+    width: 5%;
+    height: 5%;
 }
 
 #icon3{
@@ -80,10 +80,10 @@ div:hover{
     margin-left: auto;
     margin-right: auto;
     
-    margin-left: 76.8%;
-    margin-top: -6.5%;
-    width: 7%;
-    height: 7%;
+    margin-left: 81%;
+    margin-top: -5%;
+    width: 5%;
+    height: 5%;
 }
 
 #icon4{
@@ -91,9 +91,9 @@ div:hover{
     margin-left: auto;
     margin-right: auto;
     
-    margin-left: 68%;
-    margin-top: -6.5%;
-    width: 7%;
-    height: 7%;
+    margin-left: 75%;
+    margin-top: -5%;
+    width: 5%;
+    height: 5%;
 
 }
